@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 10px 2px; */
+    max-width: 1277px;
+}
+
+nav ul {
+    
+    display: flex;
+    list-style: none;
+    gap: 28px;
+    cursor: pointer;
+}
